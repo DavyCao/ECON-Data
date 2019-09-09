@@ -1,5 +1,5 @@
 # ECON-Data
-Data for IMC'19 Paper -- ***ECON: Modeling the network to improve application performance***
+Data for the IMC'19 Paper -- ***ECON: Modeling the network to improve application performance***
 
 - We do experiments under five different networks: **Azure, Southeast, Northeast, Long-distance, and Wireless**
 - We test two TCP congestion control algorithms: **Reno and Cubic**
